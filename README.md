@@ -19,26 +19,22 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<br>
 Here are the links of available projects:
 
 ### Deep Learning
 1. [Detection of Hate Speech in Multimodal Memes](https://github.com/Abhishek0697/Detection-of-Hate-Speech-in-Multimodal-Memes)
-
 2. [How to build a Convolutional Neural Network from scratch using tf.keras for Image Classification](https://github.com/Abhishek0697/How-to-build-a-Convolutional-Neural-Network-from-scratch-using-tf.keras-for-Image-Classification/blob/main/Keras_CIFAR_10.ipynb)
-
 3. [Pytorch CNN Implementation on MNIST Dataset](https://github.com/Abhishek0697/Kaggle-Digit-Recognizer/blob/master/Code/pytorch-cnn-implementation-on-mnist-dataset.ipynb)
-
-4. [Implement Convolutional Neural Network Layer in NumPy](https://github.com/Abhishek0697/Deep-Learning/blob/main/Build%20CNNs%20in%20Numpy/CNNs.ipynb)
+4. [Implement a Convolutional Neural Network Layer in NumPy](https://github.com/Abhishek0697/Deep-Learning/blob/main/Build%20CNNs%20in%20Numpy/CNNs.ipynb)
 
 
 ### Machine Learning
 
-1. [Predict survival on the Titanic challenge in MATLAB](https://github.com/Abhishek0697/Kaggle---Predict-survival-on-the-Titanic-challenge-in-MATLAB/blob/main/code/matlab_code.m)
+1. [Predict survival on the Titanic challenge in MATLAB](https://github.com/Abhishek0697/Machine-Learning-in-MATLAB/tree/main/Kaggle---Predict-survival-on-the-Titanic-challenge-in-MATLAB)
+2. [Case Study - Linear Regression in Transportation Domain](https://github.com/Abhishek0697/Machine-Learning-in-MATLAB/tree/main/Case%20Study%20-%20Linear%20Regression%20%20in%20Transportation%20Domain)
+3. [Acoustic classification and localisation of sound sources for autonomous vehicles using Machine learning](https://github.com/Abhishek0697/Acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-ML)
 
-2. [Acoustic classification and localisation of sound sources for autonomous vehicles using Machine learning](https://github.com/Abhishek0697/Acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-ML)
-
-3. [EEG-Based Biometric Authentication for Brain Computer Interfaces](https://github.com/Abhishek0697/EEG-Based-Biometric-Authentication-for-Brain-Computer-Interfaces-/blob/master/README.md)
+4. [EEG-Based Biometric Authentication for Brain Computer Interfaces](https://github.com/Abhishek0697/EEG-Based-Biometric-Authentication-for-Brain-Computer-Interfaces-/blob/master/README.md)
 
 
 ### Computer Vision

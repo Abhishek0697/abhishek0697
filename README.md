@@ -29,6 +29,8 @@ Here are the links of available projects:
 
 4. [Implement a Convolutional Neural Network Layer in NumPy](https://github.com/Abhishek0697/Deep-Learning/blob/main/Build%20CNNs%20in%20Numpy/CNNs.ipynb)
 
+5. [BERT in PyTorch for Natural Language Processing with Disaster Tweets](https://www.kaggle.com/iamabhishekdas/bert-in-pytorch-for-nlp-in-disaster-tweets)
+
 
 ### Machine Learning
 

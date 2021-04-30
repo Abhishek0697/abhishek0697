@@ -31,6 +31,8 @@ Here are the links of available projects:
 
 5. [BERT in PyTorch for Natural Language Processing with Disaster Tweets](https://www.kaggle.com/iamabhishekdas/bert-in-pytorch-for-nlp-in-disaster-tweets)
 
+6.[Paper Review and Analysis-What Does BERT Look At? An Analysis of BERT's Attention](https://github.com/Abhishek0697/Deep-Learning/tree/main/Paper%20Review-What%20Does%20BERT%20Look%20At%3F%20An%20Analysis%20of%20BERT's%20Attention) 
+
 
 ### Machine Learning
 
